@@ -1,5 +1,3 @@
- Small_Calculator
- 
 # Small Calculator 🧮
 
 ## Description
