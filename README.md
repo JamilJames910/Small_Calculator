@@ -21,12 +21,12 @@ Small Calculator is a simple Python-based calculator that allows users to perfor
 
 ## Example Usage
 
-Enter number1: 10
-Enter number2: 5
-Choose an operator: (+,-,*,/) +
-Result: 15
-Do you want to calculate again? (yes/no): no
-Goodbye!
+- Enter number1: 10
+- Enter number2: 5
+- Choose an operator: (+,-,*,/) +
+- Result: 15
+- Do you want to calculate again? (yes/no): no
+- Goodbye!
 
 
 ## Technologies Used
