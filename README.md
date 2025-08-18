@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Small_Calculator
+ Small_Calculator
 A simple Python calculator that allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division. Designed for learning Python basics and practicing user input handling.
 =======
 # Small Calculator 🧮
@@ -35,6 +34,3 @@ Goodbye!
 
 ## License
 This project is open-source and free to use.
-
-
->>>>>>> 5aeda14 (Initial commit)
