@@ -1,5 +1,5 @@
-# CLI Calculator 🧮  
-A simple, user-friendly Python command-line calculator that supports addition, subtraction, multiplication, and division. Designed to be intuitive and safe, it helps users perform quick calculations directly in the terminal.  
+# Small Calculator 🧮  
+A simple, user-friendly Python Small calculator that supports addition, subtraction, multiplication, and division. Designed to be intuitive and safe, it helps users perform quick calculations directly in the terminal.  
 
 ---
 
@@ -26,7 +26,7 @@ A simple, user-friendly Python command-line calculator that supports addition, s
 Clone this repository:  
 
 ```bash
-git clone https://github.com/your-username/CLI_Calculator.git
+git clone https://github.com/JamilJames910/Small_Calculator.git
 cd CLI_Calculator
 ````
 
@@ -49,7 +49,7 @@ No additional libraries are needed—Python handles everything out of the box.
 Run the script:
 
 ```bash
-python calculator.py
+python Small_Calculator.py
 ```
 
 You will be prompted to:
@@ -87,8 +87,8 @@ Goodbye!
 ## Project Structure 🗂️
 
 ```
-CLI_Calculator/
-├── calculator.py      # Main script
+Small_Calculator/
+├── Small_Calculator.py      # Main script
 ├── README.md          # Project documentation
 └── .gitignore         # Git ignore file
 ```
