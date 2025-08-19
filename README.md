@@ -27,7 +27,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/JamilJames910/Small_Calculator.git
-cd CLI_Calculator
+cd Small_Calculator
 ````
 
 Make sure you have **Python 3.x** installed.
